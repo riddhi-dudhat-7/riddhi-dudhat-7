@@ -46,6 +46,16 @@
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
 
 ---
 
