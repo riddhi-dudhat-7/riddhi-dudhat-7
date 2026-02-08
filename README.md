@@ -89,7 +89,7 @@
 
 📧 **Email:** riddhi.dudhat.r@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/riddhi-dudhat](https://www.linkedin.com/in/riddhi-dudhat-b40258152/)  
-🌐 **Portfolio:** (https://riddhi-dudhat-7.github.io/)
+🌐 **Portfolio:** https://riddhi-dudhat-7.github.io
 
 ---
 
